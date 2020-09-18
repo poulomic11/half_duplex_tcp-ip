@@ -1,3 +1,4 @@
+# Client side script
 from socket import *
 server_name = 'localhost'
 server_port = 5000
