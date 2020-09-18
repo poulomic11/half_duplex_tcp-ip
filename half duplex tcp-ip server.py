@@ -1,3 +1,5 @@
+#Server side script
+#author: poulomi chatterjee
 from socket import *
 server_port = 5000
 server_socket = socket(AF_INET,SOCK_STREAM)
